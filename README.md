@@ -1,5 +1,5 @@
-# Bor Overview
-Bor is the Official Golang implementation of the Matic protocol. It is a fork of Go Ethereum - https://github.com/ethereum/go-ethereum and EVM compatible.
+# Bamboo Core Overview
+Bamboo Core is the Official Golang implementation of the Bamboo protocol. It is a fork of Bor, a Go Ethereum - https://github.com/ethereum/go-ethereum and EVM compatible.
 
 ![Forks](https://img.shields.io/github/forks/maticnetwork/bor?style=social)
 ![Stars](https://img.shields.io/github/stars/maticnetwork/bor?style=social)
