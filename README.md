@@ -1,5 +1,5 @@
-# Bor Overview
-Bor is the Official Golang implementation of the Matic protocol. It is a fork of Go Ethereum - https://github.com/ethereum/go-ethereum and EVM compatible.
+# Bamboo Overview
+Bamboo Core is the Official Golang implementation of the VNBC blockchain protocol. It is a fork of Bor, a Go Ethereum - https://github.com/ethereum/go-ethereum and EVM compatible.
 
 ![Forks](https://img.shields.io/github/forks/maticnetwork/bor?style=social)
 ![Stars](https://img.shields.io/github/stars/maticnetwork/bor?style=social)
@@ -52,7 +52,7 @@ We believe one of the things that makes Polygon special is its coherent design a
     $ git checkout master
     $ git fetch upstream
     $ git merge upstream/master
-    ```
+    ``` 
 
 ### Building the source
 
